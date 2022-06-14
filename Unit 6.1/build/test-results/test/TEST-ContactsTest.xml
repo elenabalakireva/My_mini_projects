@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContactsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-15T11:37:39" hostname="DESKTOP-E846C13" time="0.032">
+  <properties/>
+  <testcase name="getTel()" classname="ContactsTest" time="0.03"/>
+  <testcase name="testHashCode()" classname="ContactsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
